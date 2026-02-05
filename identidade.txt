@@ -3,3 +3,5 @@ cpf: 555 777 888 21
 idade : 23
 masculino
 casado
+
+altura:1,77
